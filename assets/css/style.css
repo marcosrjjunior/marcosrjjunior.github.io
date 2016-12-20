@@ -59,6 +59,7 @@ main {
   z-index: 1;
   right: 0;
   background-color: #D94F4F;
+  overflow-y: auto;
 }
 
 .bar {
@@ -162,7 +163,7 @@ nav {
   margin: 0;
   list-style: none;
   position: relative;
-  margin-top: 100px;
+  margin-top: 70px;
   text-align: center;
 }
 
