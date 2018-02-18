@@ -1,0 +1,10 @@
+{
+  "name": "marcosrjjunior",
+  "short_name": "marcosjunior",
+  "lang": "en-US",
+  "start_url": "/",
+  "background_color": "#29272a",
+  "theme_color": "#29272a",
+  "display": "standalone",
+  "icons": []
+}
