@@ -239,6 +239,14 @@ nav {
   transition: all .7s .14s ease-in-out;
 }
 
+.sidebar-item:nth-child(8) {
+  -webkit-transition: all .7s .16s ease-in-out;
+  -moz-transition: all .7s .16s ease-in-out;
+  -ms-transition: all .7s .16s ease-in-out;
+  -o-transition: all .7s .16s ease-in-out;
+  transition: all .7s .16s ease-in-out;
+}
+
 .sidebar-item.active {
   opacity: 1;
   -webkit-transform: translateY(0px);
